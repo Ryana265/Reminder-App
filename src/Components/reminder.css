@@ -1,0 +1,64 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:  #921A40;
+}
+h1{
+ color: #F4D9D0;
+}
+.inrem{
+    border: none;
+    background-color: #C75B7A;
+    color: beige;
+}
+.inrem:hover{
+    border: none;
+    background-color: #C75B7A;
+    color: beige;
+
+}.inrem:active{
+    border: none;
+    background-color: #C75B7A;
+    color: beige;
+
+}
+.inbtn{
+    background-color: #a95f74;
+    border: none;
+    color: #F4D9D0;
+}
+.inbtn:hover{
+    background-color: #a3566f;
+    border: none;
+    color: #F4D9D0;
+}
+.inbtn:active{
+    background-color: #a3566f;
+    border: none;
+    color: #F4D9D0;
+
+}
+.reminder-list {
+    padding: 0;
+    margin-top: 20px;
+  }
+  
+  .reminder-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #a95f74;
+    width: 400px;
+    margin-left: 34%;
+    border: none;
+    color: beige;
+  }
+  
+  .reminder-list li button {
+    margin-left: 10px;
+  }
+ 
