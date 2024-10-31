@@ -7,6 +7,10 @@ A simple React-based to-do list app that helps you manage reminders efficiently.
 - Delete reminders when done
 - Responsive and user-friendly interface
 
+## Demo
+
+![Screenshot 2024-10-05 231649](https://github.com/user-attachments/assets/e2546801-5ac3-4548-8874-f42ce1d2d59f)
+
 ## Built With
 - **React** - JavaScript library for building user interfaces
 - **React Bootstrap** - Styling and layout for a responsive design
